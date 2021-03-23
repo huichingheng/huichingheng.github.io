@@ -12,8 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[PowerBI Dashboard](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[PowerBi Dashboard](http://example.com/)
+<img src="images/cap3-project-2.jpg?raw=true"/>
 
 ---
 [Python](http://example.com/)
