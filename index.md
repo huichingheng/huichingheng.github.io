@@ -8,8 +8,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[MS SQL](/pdf/project-sql.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/ target="_blank">
+[MS SQL](/pdf/project-sql.pdf target="_blank")
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [PowerBI Dashboard](http://example.com/)
