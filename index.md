@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[MS SQL](/pdf/sample_presentation.pdf)
+[MS SQL](/pdf/project-sql.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
