@@ -9,7 +9,7 @@
 
 ---
 [MS SQL](/pdf/project-sql.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/ target="_blank">
 
 ---
 [PowerBI Dashboard](http://example.com/)
