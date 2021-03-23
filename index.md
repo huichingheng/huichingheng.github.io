@@ -4,7 +4,7 @@
 
 ### Capstone Project
 
-[Excel Dashboard](/sample_page)
+[Excel Dashboard](/sample_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 [Python](http://example.com/)
-// <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Category Name 2
 
