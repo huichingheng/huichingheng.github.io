@@ -6,7 +6,6 @@
 
 [Analysis of Crowdfunding Platform - Kickstarter](/sample_page)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-<iframe src="https://onedrive.live.com/embed?cid=F945819FD9DA3A03&resid=F945819FD9DA3A03%21282&authkey=AHtjGXumXYPaxDw&em=2" width="100%" height="346" frameborder="0" scrolling="no"></iframe>
 <em>Tool: Microsoft Excel</em><br>
 <em>Source: <a href="https://www.kaggle.com/codename007/funding-successful-projects" target="_blank"> Kaggle </a></em>
 
