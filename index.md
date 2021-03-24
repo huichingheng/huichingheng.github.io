@@ -6,8 +6,8 @@
 
 [Analysis of Crowdfunding Platform - Kickstarter](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-<div><em>Tool: Microsoft Excel</em></div>
-<div><em>Source: <a href="https://www.kaggle.com/codename007/funding-successful-projects" target="_blank"> Kaggle </a></em></div>
+<em>Tool: Microsoft Excel</em><br>
+<em>Source: <a href="https://www.kaggle.com/codename007/funding-successful-projects" target="_blank"> Kaggle </a></em>
 
 ---
 [MS SQL](/pdf/project-sql.pdf)
