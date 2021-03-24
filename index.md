@@ -9,6 +9,7 @@
 
 ---
 [MS SQL](/pdf/project-sql.pdf)
+<iframe src="https://onedrive.live.com/embed?cid=F945819FD9DA3A03&resid=F945819FD9DA3A03%21278&authkey=ADsEbdmNjGIg97s&em=2" width="100%" height="327" frameborder="0" scrolling="no"></iframe>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
