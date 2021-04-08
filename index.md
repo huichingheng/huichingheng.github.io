@@ -18,7 +18,7 @@
 
 ---
 ### Analysis of Malnutrition Across the Globe
-[<img src="images/cap3-project.jpg?raw=true"/>](/pdf/capstone3.pdf)
+[<img src="images/cap3-project-1.jpg?raw=true"/>](/pdf/capstone3.pdf)
 <em>Tool: PowerBi Query</em><br>
 <em>Source: <a href="https://www.kaggle.com/ruchi798/malnutrition-across-the-globe" target="_blank"> Kaggle </a></em><br>
 <em>Duration: 2 weeks</em>
