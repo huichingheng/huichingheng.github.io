@@ -1,7 +1,7 @@
 title: HuiChing Heng # your name (or website title) here
 <!-- logo: "/images/logo.png?raw=true" # your photo (or logo) here -->
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <strong>About me</strong>
+  <strong>About me</strong><br>
   with years experience in the digital design industry. Further develop into data analysis. Look forward to contributing to an organization to exercise and develop my skills. 
   <br><br>
   Second description 
@@ -9,8 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/huichingheng/">View My LinkedIn Profile</a>
   <br>
   <a href="https://www.behance.net/huichingheng">View My Behance page</a>
-  <br>
-  <a href="test">View My test page</a> 
+ 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
