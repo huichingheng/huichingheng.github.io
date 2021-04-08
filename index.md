@@ -4,10 +4,11 @@
 
 ### Capstone Projects
 
-[Analysis of Crowdfunding Platform - Kickstarter](/sample_page)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-<em>Tool: Microsoft Excel</em><br>
+[Analysis of Crowdfunding Platform - Kickstarter](/pdf/Capstone1_v02)
+<img src="images/cap1-project-1.png?raw=true"/>(/pdf/Capstone1_v02)
+<em>Tool: Microsoft Excel, Power Query</em><br>
 <em>Source: <a href="https://www.kaggle.com/codename007/funding-successful-projects" target="_blank"> Kaggle </a></em>
+<em>Duration: 2 weeks</em>
 
 ---
 [MS SQL](/pdf/project-sql.pdf)
