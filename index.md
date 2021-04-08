@@ -11,7 +11,7 @@
 <em>Duration: 2 weeks</em>
 
 ---
-[MS SQL](/pdf/Capstone2_v02.pdf)
+[Analysis of Coffee Shop](/pdf/Capstone2_v02.pdf)
 <!-- <iframe src="https://onedrive.live.com/embed?cid=F945819FD9DA3A03&resid=F945819FD9DA3A03%21278&authkey=ADsEbdmNjGIg97s&em=2" width="100%" height="327" frameborder="0" scrolling="no"></iframe> -->
 <img src="images/cap2-project-1.jpg?raw=true"/>
 <em>Tool: MS SQL, Microsoft Excel, Power Query, <a href="https://www.lucidchart.com/pages/" target="_blank"> ER Diagram </a></em><br>
@@ -19,12 +19,18 @@
 <em>Duration: 2 weeks</em>
 
 ---
-[PowerBi Dashboard](http://example.com/)
-<img src="images/cap3-project-2.jpg?raw=true"/>
+[Analysis of Malnutrition Across the Globe](http://example.com/)
+<img src="images/cap3-project.jpg?raw=true"/>
+<em>Tool: PowerBi Query</em><br>
+<em>Source: <a href="https://www.kaggle.com/ruchi798/malnutrition-across-the-globe" target="_blank"> Kaggle </a></em><br>
+<em>Duration: 2 weeks</em>
 
 ---
-[Python](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Alzheimer’s Disease Prediction](http://example.com/)
+<img src="images/cap4-project.jpg?raw=true"/>
+<em>Tool: python, jupyter notebook, machine learning model</em><br>
+<em>Source: <a href="https://www.kaggle.com/jboysen/mri-and-alzheimers" target="_blank"> Kaggle </a></em><br>
+<em>Duration: 1 weeks</em>
 
 <!-- ### Category Name 2
 
