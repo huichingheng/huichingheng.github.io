@@ -1,11 +1,17 @@
 ## Portfolio
 
 ---
+### Alzheimer’s Disease Prediction
+[<img src="images/cap4-project.jpg?raw=true"/>](/pdf/capstone4.pdf)
+<em>Tool: python, jupyter notebook, machine learning model</em><br>
+<em>Source: <a href="https://www.kaggle.com/jboysen/mri-and-alzheimers" target="_blank"> Kaggle </a></em><br>
+<em>Duration: 1 weeks</em>
 
-### Analysis of Crowdfunding Platform - Kickstarter
-[<img src="images/cap1-project.jpg?raw=true"/>](/pdf/capstone1.pdf)
-<em>Tool: Microsoft Excel, Power Query</em><br>
-<em>Source: <a href="https://www.kaggle.com/codename007/funding-successful-projects" target="_blank"> Kaggle </a></em><br>
+---
+### Analysis of Malnutrition Across the Globe
+[<img src="images/cap3-project-1.jpg?raw=true"/>](/pdf/capstone3.pdf)
+<em>Tool: PowerBi</em><br>
+<em>Source: <a href="https://www.kaggle.com/ruchi798/malnutrition-across-the-globe" target="_blank"> Kaggle </a></em><br>
 <em>Duration: 2 weeks</em>
 
 ---
@@ -17,18 +23,11 @@
 <em>Duration: 2 weeks</em>
 
 ---
-### Analysis of Malnutrition Across the Globe
-[<img src="images/cap3-project-1.jpg?raw=true"/>](/pdf/capstone3.pdf)
-<em>Tool: PowerBi</em><br>
-<em>Source: <a href="https://www.kaggle.com/ruchi798/malnutrition-across-the-globe" target="_blank"> Kaggle </a></em><br>
+### Analysis of Crowdfunding Platform - Kickstarter
+[<img src="images/cap1-project.jpg?raw=true"/>](/pdf/capstone1.pdf)
+<em>Tool: Microsoft Excel, Power Query</em><br>
+<em>Source: <a href="https://www.kaggle.com/codename007/funding-successful-projects" target="_blank"> Kaggle </a></em><br>
 <em>Duration: 2 weeks</em>
-
----
-### Alzheimer’s Disease Prediction
-[<img src="images/cap4-project.jpg?raw=true"/>](/pdf/capstone4.pdf)
-<em>Tool: python, jupyter notebook, machine learning model</em><br>
-<em>Source: <a href="https://www.kaggle.com/jboysen/mri-and-alzheimers" target="_blank"> Kaggle </a></em><br>
-<em>Duration: 1 weeks</em>
 
 <!-- ### Category Name 2
 
