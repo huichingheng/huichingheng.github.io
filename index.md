@@ -1,9 +1,16 @@
 ## Portfolio
 
 ---
+### Restaurant Rating Prediction
+[<img src="images/summative-project.jpg?raw=true"/>](/pdf/capstone4.pdf)
+<em>Tool: Python, Jupyter Notebook, Machine Learning model, Ms SQL, PowerBI</em><br>
+<em>Source: <a href="https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants" target="_blank"> Kaggle </a></em><br>
+<em>Duration: 3 weeks</em>
+
+---
 ### Alzheimer’s Disease Prediction
 [<img src="images/cap4-project.jpg?raw=true"/>](/pdf/capstone4.pdf)
-<em>Tool: python, jupyter notebook, machine learning model</em><br>
+<em>Tool: Python, Jupyter Notebook, Machine Learning Model</em><br>
 <em>Source: <a href="https://www.kaggle.com/jboysen/mri-and-alzheimers" target="_blank"> Kaggle </a></em><br>
 <em>Duration: 1 weeks</em>
 
