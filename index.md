@@ -2,14 +2,14 @@
 
 ---
 ### Restaurant Rating Prediction
-[<img src="images/summative-project.png?raw=true"/>](/pdf/summative.pdf)
+[<img src="images/summative-project.png?raw=true"/>](/pdf/SummativeProject-HengHuiChing.pdf)
 <em>Tool: Python, Jupyter Notebook, Machine Learning model, Ms SQL, PowerBI</em><br>
 <em>Source: <a href="https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants" target="_blank"> Kaggle </a></em><br>
 <em>Duration: 3 weeks</em>
 
 ---
 ### Alzheimer’s Disease Prediction
-[<img src="images/cap4-project.jpg?raw=true"/>](/pdf/capstone4.pdf)
+[<img src="images/cap4-project.jpg?raw=true"/>](/pdf/project04-python.pdf)
 <em>Tool: Python, Jupyter Notebook, Machine Learning Model</em><br>
 <em>Source: <a href="https://www.kaggle.com/jboysen/mri-and-alzheimers" target="_blank"> Kaggle </a></em><br>
 <em>Duration: 1 weeks</em>
