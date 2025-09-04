@@ -32,7 +32,7 @@
 ---
 ### Analysis of Crowdfunding Platform - Kickstarter
 [<img src="images/cap1-project.jpg?raw=true"/>](/pdf/capstone1.pdf)
-<em>Tool: Microsoft Excel, Power Query</em><br>
+<em>Tool: <a href="https://onedrive.live.com/:x:/g/personal/8FD1B7641C6FD233/ER2KzNTeWiRNoHwqBnh-r_IBk5NdDxWvAVru8I0npeRKgw?resid=8FD1B7641C6FD233!sd4cc8a1d5ade4d24a07c2a06787eaff2&ithint=file%2Cxlsx&e=20NKeQ&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy84ZmQxYjc2NDFjNmZkMjMzL0VSMkt6TlRlV2lSTm9Id3FCbmgtcl9JQms1TmREeFd2QVZydThJMG5wZVJLZ3c_ZT0yME5LZVE" target="_blank"> Microsoft Excel, Power Query</a></em><br>
 <em>Source: <a href="https://www.kaggle.com/codename007/funding-successful-projects" target="_blank"> Kaggle </a></em><br>
 <em>Duration: 2 weeks</em>
 
