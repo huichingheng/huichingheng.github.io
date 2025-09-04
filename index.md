@@ -24,7 +24,7 @@
 ---
 ### Analysis of Coffee Shop
 <!-- <iframe src="https://onedrive.live.com/embed?cid=F945819FD9DA3A03&resid=F945819FD9DA3A03%21278&authkey=ADsEbdmNjGIg97s&em=2" width="100%" height="327" frameborder="0" scrolling="no"></iframe> -->
-[<img src="images/cap2-project-1.jpg?raw=true"/>](/pdf/capstone2.pdf)
+[<img src="images/cap2-project-1.jpg?raw=true"/>](/pdf/project02-powerBis.pdf)
 <em>Tool: MS SQL, <a href="https://1drv.ms/x/c/8fd1b7641c6fd233/EaCAS8FT2m5HmEXdyFS4FlQBMYzy5Wce9R70RuvvqKSSyg?e=S7Ybtk" target="_blank"> Microsoft Excel, Power Query</a>, <a href="https://www.lucidchart.com/pages/" target="_blank"> ER Diagram </a></em><br>
 <em>Source: <a href="https://www.kaggle.com/ylchang/coffee-shop-sample-data-1113" target="_blank"> Kaggle </a></em><br>
 <em>Duration: 2 weeks</em>
