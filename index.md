@@ -3,7 +3,7 @@
 ---
 ### Restaurant Rating Prediction
 [<img src="images/summative-project.png?raw=true"/>](/pdf/SummativeProject-HengHuiChing.pdf)
-<em>Tool: Python, Jupyter Notebook, Machine Learning model, Ms SQL, PowerBI</em><br>
+<em>Tool: Python, Jupyter Notebook, Machine Learning model, My SQL, PowerBI</em><br>
 <em>Source: <a href="https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants" target="_blank"> Kaggle </a></em><br>
 <em>Duration: 3 weeks</em>
 
